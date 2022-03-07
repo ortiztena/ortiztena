@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Ortiz</h1>
-<h3>Agricultural Engineer 🌱, father & code lover ⚡ from Spain.</h3>
+<h3>Agricultural Engineer 🌱, dad & code lover ⚡ from Spain.</h3>
 
 ###### After working in differents top rated golf courses around the world, i decided to change my career into a web developer.
 
